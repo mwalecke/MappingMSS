@@ -36,5 +36,6 @@
 "SkeatDesc":"long string",
 "KaneDesc":"long string",
 "SchmidtDesc":"long string",
-"EditorDesc":"substitution for Skeat or Kane or Schmidt"
+"EditorDesc":"substitution for Skeat or Kane or Schmidt",
+"Ker":"long string"
 }
