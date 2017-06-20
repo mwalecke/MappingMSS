@@ -31,5 +31,10 @@
 "EnlargedInitial":null,
 "EIOnFolios":["list","each","folio","where","one","occurs","as","strings","including","a/b"],
 "Rubrics": true,
-"RubricColor":"string"
+"RubricColor":"string",
+"CatDescription":"long string",
+"SkeatDesc":"long string",
+"KaneDesc":"long string",
+"SchmidtDesc":"long string",
+"EditorDesc":"substitution for Skeat or Kane or Schmidt"
 }
