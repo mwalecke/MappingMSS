@@ -1,0 +1,26 @@
+{"@context":
+{
+  "foaf":"http://xmlns.com/foaf/0.1/&#8221",
+  "name": {"@id":"foaf:name"},
+  "Nickname":{"@id":"foaf:nick"},
+  "dcterms":"http:/purl.org/dc/terms/&8221",
+  "DateRange":{"@id":"dcterms:PeriodOfTime"},
+  "language":{"@id":"dcterms:language"},
+  "PhysicalObject": "http://purl.org/dcmitype/PhysicalObject",
+  "PrintedEditions": {"@id":"dcterms:BibliographicResource"},
+  
+  "TEI":"http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-&#8220",
+  "msDesc":{"@id":"TEI:msDesc.html"},
+  "msIdentifier":{"@id":"TEI:msIdentifier.html"},
+  "repository":{"@id":"TEI:repository.html"},
+  "msContents":{"@id":"TEI:msContents.html"},
+  "work": {"@id":"TEI:msItem.html"},
+  "title":{"@id":"TEI:title"},
+  "author":{"@id":"TEI:author.html"},
+  "DialectRegion":{"@id":"TEI:region.html"},
+  "publisher":{"@id":"TEI:publisher.html"},
+  
+  "xsd":"http://www.w3.org/2001/XMLSchema#&#8221",
+  "date":{"@id":"xsd:date"}
+}
+}
