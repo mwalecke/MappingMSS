@@ -38,5 +38,6 @@
 "KaneDesc":"long string",
 "SchmidtDesc":"long string",
 "EditorDesc":"substitution for Skeat or Kane or Schmidt",
-"Ker":"long string"
+"Ker":"long string",
+"DigFacs": "web link"
 }
