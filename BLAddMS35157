@@ -1,0 +1,133 @@
+{"@type": "PhysicalObject",
+"msIdentifier":"Additional MS 35157",
+"Nickname": "Additional 35157",
+"HoldingLocation":"London",
+"repository":"British Library",
+"Olim.":null,
+"DateRange":"ca. 1400",
+"TerminusPostQuem":1395,
+"TerminusAnteQuem":1405,
+"Provenance": null,
+"AquisitionDate":null,
+"Support":["Paper","Vellum"],
+"SupportQuality": null,
+"NoFolios":null,
+"Script":"typeofscript",
+"ScriptQuality":"1-10",
+"msContents": ["list","of","texts"],
+"NumberOfWorks": 9,
+"DialectRegion":"county name",
+"Collation":["each","quire","gets","its","own","string"],
+"FullPageDec":null,
+"FPDOnFolios":["list","each","folio","where","one","occurs","as","strings","including","a/b"],
+"HalfPageMini":null,
+"HPMOnFolios":["list","each","folio","where","one","occurs","as","strings","including","a/b"],
+"ColumnMini":null,
+"CMOnFolios":["list","each","folio","where","one","occurs","as","strings","including","a/b"],
+"HistoriatedInitial":null,
+"HIOnFolios":["list","each","folio","where","one","occurs","as","strings","including","a/b"],
+"DecoratedInitial": null,
+"DIOnFolios":["list","each","folio","where","one","occurs","as","strings","including","a/b"],
+"EnlargedInitial":null,
+"EIOnFolios":["list","each","folio","where","one","occurs","as","strings","including","a/b"],
+"Rubrics": true,
+"RubricColor":"string",
+"CatDescription":"Title:
+William Langland, The Vision of Piers Plowman (C version)
+Collection Area: Western Manuscripts 
+Reference: Add MS 35157 
+Creation Date: Late 14th century-16th century 
+Extent and Access:  Extent:
+A parchment codex, 125 folios
+ Access Conditions: Restrictions to access apply please consult British Library staff:  Conditions of Use: Letter of introduction required to view this manuscript 
+Contents and Scope:  Contents:
+Contents:
+This manuscript contains an early copy of the C Version of the text (see Boffey, Middle English Verse (2005), no. 1459), closely related to San Marino, Huntington Library HM 143 and dated to the late 14th century. The textual divisions are numbered as 'passus primus', 'passus secundus' and so on, in each section of the present manuscript; continuous numbering from I-XXII, as in Schmidt,Piers Plowman, the A, B, C and Z versions (2011), is also noted.
+ff. 7r-54v: William Langland, The Vision of Piers Plowman , (Prologue, Passus I-IX), incipit, 'In a som[er] sesonn', with the final rubric, 'amen. Explicit visio Will[elm]i W. de Petro le ploughman';
+ff. 55r-87v: Vision of Dowell , (Passus I-VII; Schmidt: X-XVI) beginning with the rubric, 'Et hic incipit visio eiusdem de dowel' and ending with the rubric, 'Passus septimus de dowell et explicit' (f. 87v);
+ff. 87v-110r: Vision of Dobet (Passus I-IV; Schmidt: XVII-XX), without rubric, incipit, ' Ther is no such y saide', ending with the rubric, 'Explicit dobet';
+ff. 110r-124r: Vision of Dobest (Passus I-II; Schmidt: XXI-XXII),beginning with rubric, '..et incipit dobest', ending with the rubric, 'Explicit liber vocatus pers ploghman' (f. 124r);
+f. 124v, Two medical recipes in English, added in the late 15th or early 16th century, entitled: 'Contra stipacionem ventris que vocatur grind' and 'To dissolve the Hernia Carnosa'.
+Marginal notes have been added throughout, in at least 9 hands dating from the 14th to the 20th century (for details, see Grindley Additional 35157 (1997).
+Decoration:
+A framed initial 'I' in black with gold on a rose and blue ground with pen-flourishing in a foliate pattern at the beginning of the prologue (f. 7r). Initials in blue with pen-flourishing in red at the beginning of each chapter or 'passus'. Paraphs in red or blue and underlining in red. A portrait bust in profile, painted in colours in an oval gold frame, added in the 18th century (f. 6r).
+ Physical characteristics:
+Material: parchment.
+Dimensions: 220 x 150mm (text space: 175 x 80/110).
+Foliation: ff. 125 (f. 1 is a paper paste-down to f. verso + 3 unfoliated paper flyleaves at the beginning and 4 at the end).
+Collation: i 4 (ff. 3-6), ii-x 8 (ff. 7-78), xi 10-2 (ff. 79-86), xii-xv 8 (ff. 87-118), xvi 8-1 (ff. 119-125). Catchwords (e.g., ff. 14v, 62v) and page numbering (e.g. ff. 23r, 24r).
+Script: Gothic cursive.
+Scribe: Attributed to 'Preston': name inscribed in red immediately following the text (f. 124r).
+Binding: Post-1600. Red leather with gold tooling. Rebound in 1735. Paper flyleaves display watermark arms of City of London and the Crown of George I, identified as examples of Heawood 477, dated 1722 (see Grindley Additional 35157 (1997), p. 109).
+
+History:  Custodial History:
+Medical recipes added on a flyleaf in a hand of the late 15th or 16th century (f. 124v).
+Robert Machell, his name inscribed in a ?15th century hand (f. 125v)
+Parchment scraps have been pasted in on ff. 9-11 where part of the original folio is missing with the text supplied in the 16th-century hand of Thomas Thyrnbeke whose name is inscribed on f. 124v. The added text is from either the second or third of Robert Crowley's 1550 editions of Piers Plowman.
+Arthur Surteys (Suttees): his name inscribed in a ?16th-century hand (f. 124r).
+William Aiscoughe, his name inscribed in a ?16th-century hand (f. 124r).
+Francis Aiscoughe, of Cottam, Nottinghamshire, a paste-down note from a former binding (numbered as f. 1), transcribed in 1728, states: 'This Book was written and dated the 10th of the Ides of March the 2nd yeare of King John of famous memory by Peers Plowman Pensionaire or rather Servant to the said K[in]g as John Gowere recordeth. 9th Fraun' Aiscoughe'; his name inscribed on f. 124r and f.124v in a hand of the 17th century.
+Maurice Johnson (b. 1688, d. 1755), barrister and President of the Society of Antiquaries: his armorial bookplate, dated 1735 (f. 2v); his introduction to the text and the above transcription, made at the time of rebinding in 1728 (ff. 3-5). A portrait bust of a young man in profile, painted in colours in an oval gold frame, perhaps the work of Maurice Johnson or one of his heirs (f. 6r).
+Mrs Johnson, through the Johnson family by inheritance: bought from her by the British Museum on 7 January 1898 (a note on f. [ii]).
+
+Copies:
+Full digital coverage available for this manuscript: see Digitised Manuscripts at http://www.bl.uk/manuscripts.
+
+Digital Version: Add_MS_35157" target="_blank">  http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_35157 
+Related persons, etc: Aiscoughe, Francis, fl. 17th century, of Cottam, county Nottinghamshire  Johnson, Maurice, of Ayscoughee Hall, Lincolnshire, 1688-1755, Barrister and President of the Society of Antiquaries  Langland, William, c.1332-1400  Preston, fl. end of the 14th century, Scribe (?) of Additional 35157  Thyrnbeke, Thomas, fl. 16th century, Clerk 
+Related Resources:
+From the British Museum Catalogue of Additions (1901): 'THE VISION of William concerning Piers the Plowman, together with Dowell, Dobet and Dobest. The latest version, called the "C" text by Skeat, Early English Text Society ed., 1873. Begins: "In a somer sesonn when soft was þe sonne I shoep me in to shrowdes as y a shep were." Piers Plowman ends at f. 54 b, "Explicit visio Willelmi W. de Petro le ploughman. Et hic incipit visio eiusdem de dowel." Dobet begins at f. 87 b without heading and ends at f. 110, "Explicit dobet et incipit dobest." At the end of Dobest (f. 124), "Explicit liber vocatlis Pers ploghman"; followed by the name (of the scribe?) "Preston" in red. The MS. is not mentioned by Skeet. It closely, resembles Lord Ilchester's MS. (Skeat's I, see his edition, pp. xxxiii.-xxxviii., and footnotes, passim ); agreeing with it in the colophon to Piers Plowman, in the titles to the several "passus," and in a large proportion of the variations from the standard text adopted by Skeat. The following dialectical characteristics may be noted:-
+(a) the pronoun I is almost invariably written y , not I c or I ch; (b) she is generally so written, not hue or heo; (c) the past participle usullly has the prefix y -. On a blank page at the end (f. 124 b) are two medical recipes, "contra stipacionem ventris is que vocatur grind," and "to dissolue the hernia carnosa," inserted in the 16th cent. Vellum; ff. 125. End of XIVth cent. Initials in red and blue; the Latin pasages underlined in red. A few lines lost by the mutilation of f. 9, and a few words on ff. 10 and 11; but the missing passages supplied, circ . 1500. Marginal notes in various hands of the 16th and 17th centt. The following names, presumably of former owners, occur: Arthur Surteys (f. 124); Thomas Thyrnbeke, "Clarke" (f. 124b, 16th cent.); Francis Aiscoughe, of Cottam [eo. Notts] (ff. 1, 124, 124b, 16-17th cent.); and Maurice Johnson, of Ayscoughfee Hall in Spalding, whose bookplate of arms, 1735, is at f. 2 b, and who has prefixed some notes on the poem (ff. 3-5), stating that he had the volume re-bound in 1728. The binding is of the Harleian pattern, crimson morocco, tooled. 9 X 6 in'.
+
+Publications:
+Catalogue of Additions to the Manuscripts in the British Museum in the Years 1894-99 (London: Trustees of the British Museum, 1901), pp. 192-93.
+R. W. Chambers, ‘The Manuscripts of Piers Plowman in the Huntington Library, and their value for Fixing the Text of the Poem’, The Huntington Library Bulletin , 8 (1935), 1-27 (pp. 23-24).
+A. I. Doyle, 'Remarks on surviving manuscripts of Piers Plowman' in Medieval English religious and ethical literature: essays in honour of George H. Russell , ed. by Gregory Kratzmann and James Simpson (Cambridge: D. S. Brewer, 1986), pp. 35-48 (pp. 43, 48).
+William Langland, Piers Plowman: the C-text , ed. by Derek Pearsall, 2nd edn (Exeter: University of Exeter Press, 1994), pp. 21-26.
+Carl James Grindley, 'The life of a book: British Library manuscript additional 35157 in historical context' (unpublished doctoral thesis: University of Glasgow, 1996), online at http://theses.gla.ac.uk/1489/1/1996grindleyphd.pdf.
+Merja Black, 'Studies in the Dialect Materials of Medieval Herefordshire' (unpublished doctoral thesis, University of Glasgow, 1997), pp. 105-09.
+Merja Black, 'A Scribal Translation of Piers Plowman', Medium Aevum , 67 (1998), 257-90.
+Piers Plowman: the C Version: Will's Visions of Piers Plowman, Do-Well, Do-Better and Do-Best. An Edition in the Form of the Huntington Library MS HM 143, Corrected and Restored from the Known Evidence, with Variant Readings, ed. by George Russell and George Kane (London: the Athlone Press, 1998), p. 13.
+Julia Boffey and A. S. G. Edwards, A New Index of Middle English Verse (London: British Library, 2005), p. 100, no. 1459, 'C' version.
+William Langland, Piers Plowman: a parallel-text edition of the A, B, C and Z versions , ed. by A. V. C. Schmidt, 2nd edn(Kalamazoo, Michigan: Medieval Institute Publications, 2011), p. xii.",
+"BMCatDescription": "35,157. THE VISION of William concerning Piers the Plowman, 
+together with Dowell, Dobet and Dobest. The latest version, 
+called the "C" text by Skeat, Early English Text Society ed., 
+1873. Begins: "In a somer sesonn when soft was þe sonne I shoep 
+me in to shrowdes as y a shep were." Piers Plowman ends at 
+f. 54 b, "Explicit visio Willelmi W. de Petro le ploughman. Et 
+hic incipit visio eiusdem de dowel." Dobet begins at f. 87 b 
+without heading and ends at f. 110, "Explicit dobet et incipit 
+dobest." At the end of Dobest (f. 124), "Explicit liber vocatlis 
+Pers ploghman"; followed by the name (of the scribe?) "Preston" 
+in red. The MS. is not mentioned by Skeet. It closely, resembles 
+Lord Ilchester's MS. (Skeat's I, see his edition, pp. xxxiii.-xxxviii., 
+and footnotes, passim); agreeing with it in the colophon to Piers 
+Plowman, in the titles to the several "passus," and in a large 
+proportion of the variations from the standard text adopted by 
+Skeat. The following dialectical characteristics may be noted:- 
+(a) the pronoun I is almost invariably written y, not Ic or Ich; 
+(b) she is generally so written, not hue or heo; (c) the past 
+participle usullly has the prefix y-. 
+On a blank page at the end (f. 124 b) are two medical recipes, 
+"contra stipacionem ventris is que vocatur grind," and "to dissolue 
+the hernia carnosa," inserted in the 16th cent. 
+Vellum; ff. 125. End of XIVth cent. Initials in red and blue; 
+the Latin pasages underlined in red. A few lines lost by the 
+mutilation of f. 9, and a few words on ff. 10 and 11; but the 
+missing passages supplied, circ. 1500. Marginal notes in various 
+hands of the 16th and 17th centt. The following names, pre- 
+sumably of former owners, occur: Arthur Surteys (f. 124); Thomas 
+Thyrnbeke, "Clarke" (f. 124b, 16th cent.); Francis Aiscoughe, 
+of Cottam [eo. Notts] (ff. 1, 124, 124b, 16-17th cent.); and 
+Maurice Johnson, of Ayscoughfee Hall in Spalding, whose book- 
+plate of arms, 1735, is at f. 2 b, and who has prefixed some notes 
+on the poem (ff. 3-5), stating that he had the volume re-bound in 
+1728. The binding is of the Harleian pattern, crimson morocco, 
+tooled. 9 X 6 in.",
+"SkeatDesc":"long string",
+"KaneDesc":"long string",
+"SchmidtDesc":"long string",
+"EditorDesc":"substitution for Skeat or Kane or Schmidt",
+"Ker":"long string"
+}
