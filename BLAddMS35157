@@ -11,7 +11,7 @@
 "AquisitionDate":null,
 "Binding":"Post-1600. Red leather with gold tooling. Rebound in 1735. Paper flyleaves display watermark arms of City of London and the Crown of George I, identified as examples of Heawood 477, dated 1722 (see Grindley Additional 35157 (1997), p. 109).",
 "Support":["Paper","Vellum"],
-"SupportQuality": X,                            <------
+"SupportQuality": 1,                            
 "NoFolios":125,
 "FolHeight": 220,
 "FolWidth": 150,
@@ -19,7 +19,7 @@
 "FrameHeight": 177,
 "FrameWidth": 112,
 "Script":"Gothic cursive with Latin in formalized hand",
-"ScriptQuality": X,                             <------
+"ScriptQuality": 7,                            
 "Scribe": "Attributed to 'Preston': name inscribed in red immediately following the text (f. 124r)",
 "LMEScribes":"https://www.medievalscribes.com/index.php?browse=manuscripts&id=419&nav=off",
 "msContents": ["Cotton Preface to Piers", "Piers Plowman","explicit Piers prayers","medical recipe-Contra stipacionem ventris que vocatur grind","medical recipe-To dissolve the Hernia Carnosa"],
@@ -35,8 +35,8 @@
 "CMOnFolios":null,
 "HistoriatedInitial":null,
 "HIOnFolios":null,
-"DecoratedInitial": 1,
-"DIOnFolios":["7r","each","folio","where","one","occurs","as","strings","including","a/b"],
+"DecoratedInitial": 3,
+"DIOnFolios":["7r","10v","11r","where","one","occurs","as","strings","including","a/b"],
 "ColoredPlainInitial": null,
 "CPI": ["list","each","folio","where","one","occurs","as","strings","including","a/b"],
 "EnlargedInitial":null,
