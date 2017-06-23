@@ -28,7 +28,8 @@
 "msContents": ["fragment of OT history from SEL","On the Death of William de la Pole","Against the Lollards", "Factum est in vigilia matutina", "Reconciliation of King Henry VI with the Yorkists", "Proclamation 'To alle you I sende gretynge'", "Note on Mensuration", "Piers Plowman C", "Latin note on the Holy Blood of Hailes"],
 "NumberOfWorks": 9,
 "Marginalia": "notes",
-"DialectRegion":"county name",
+"DialectRegion":"West Warwickshire",
+"LALMELP": 4686,
 "Collation":["each","quire","gets","its","own","string"],
 "FullPageDec":null,
 "FPDOnFolios":["list","each","folio","where","one","occurs","as","strings","including","a/b"],
@@ -46,12 +47,43 @@
 "EIOnFolios":["list","each","folio","where","one","occurs","as","strings","including","a/b"],
 "DecDescr":"long string",
 "Rubrics": true,
-"RubricColor":"string",
-"CatDescription":"long string",
-"SkeatDesc":"long string",
-"KaneDesc":"long string",
-"SchmidtDesc":"long string",
-"EditorDesc":"substitution for Skeat or Kane or Schmidt",
+"RubricColor":"red",
+"CatDescription":"Title: Old Testament history (1r: Boffey 3973, from the South English Legendary); On the death of William de la Pole, duke of Suffolk, 1450 (1v–2r: Boffey 1555); Against the Lollards (2v–3v: Boffey 1926); Factum est in vigilia matutina (3v); Reconciliation of King Henry VI of England (1422–1461, 1470–1471) with the Yorkists, 1458 (4r–v: Boffey 3929); proclamation ‘To alle you I sende gretynge’, 1416 (5r); note on mensuration (5v); William Langland, Vision of Piers Plowman , version C (6r–95r: Boffey 1459); note on the Holy Blood of Hailes (95v)
+		
+		Collection Area: Western Manuscripts 
+		Reference: Cotton MS Vespasian B XVI 
+		Creation Date: 4th quarter of the 14th century-2nd half of the 15th century 
+		Extent and Access:  Extent: 1 item  Conditions of Use: 
+		Letter of introduction required to view this manuscript 
+		Language: Latin
+		Contents and Scope:  Contents: 
+Language(s): Middle English; Latin (3v, 95v) Dated: last quarter of the 14th century or 1st quarter of the 15th century; 2nd half of the 15th century (1r–5v, 95v)  Physical characteristics:
+		Condition: intact Materials: parchment Dimensions: approximately 280 × 195 mm Foliation: fos. 95 Binding: British Museum 1865 
+		History:  Origin: Origin: England (?West Midlands) Custodial History: Previously owned by: the Cotton family, Bts, Conington, 17th century 
+		Publications: Boffey, Julia, & A. S. G. Edwards, A New Index of Middle English Verse (London, 2005); Doyle, A. I., ‘Remarks on surviving manuscripts of Piers Plowman ’, in Gregory Kratzmann & James Simpson (eds.), Medieval English Religious and Ethical Literature: Essays in Honour of G. H. Russell (Cambridge, 1986), p. 43; Russell, George, & George Kane, eds., Piers Plowman: The C Version. Will’s Visions of Piers Plowman, Do-Well, Do-Better and Do-Best (London, 1997), pp. 8–9 ",
+"SkeatDesc":"MS. Cotton, Vespasian B. Xvi, in the British Museum; the eraliest and best of the MSS. Of the poem (in whatever shape), in the British Mesuem, written on vellum before 1400; collated throughout, and denoted by the letter M. Each leaf measures about 10 inches by 7 1/4, and the MS. Consists of 95 leaves. Each page contains about 40 lines. The copy of Piers the Plowman begins on leaf 6, and ends on leaf 95 recto. The metrical pause is denoted throughout by a large red dot. The poem is divided into paragraphs, which are denoted by paragraph marks (❡) prefixed, coloured red and blue alternately, and every paragraph ends with a waved red line. All the Latin quotations are written in red letters. On the first five leaves, and on the last page, are written various pieces, some of them imperfect, in a later hand, probably about A.D. 1416 or later, as that date is found on leaf 5. These pieces are printed in Mr Wright’s edition of Political Songs; Camden Society, 1839. One of them, a Satirical Proclamation, will be found in Mr Furnivall’s Political, Religious, and Love Poems (E.E.T.S., 1866), pp. 12 and 13. This is the piece which is dated A.D. 1416, but there are reasons for supposing this date a mere mistake for 1436; see the note in Mr. Furnivall’s volume. But all these pieces have clearly been written in afterwards, and the date of them does not affect the date of the copy of Piers the Plowman. As I was unable to give up my time to visiting the British Museum very frequently, my collation has been made by help of the transcript made for me, as I have already mentioned, by Mr. Rossiter, Mr Brock, and Mr Wood. My thanks are also specially due to Miss L. Toulmin Smith,  of this volume once more with theMS., in order to eliminate any small errors that might otherwise have arisen. Every reading of M that is of any consequence has been recorded in the footnotes.
+The MS. Is not so good, as regards the character of its readings, as might have been expected. My attempt to make it the basis of the text entirely broke down. In many places where it differs from MS. P, the variations are certainly for the worse, although it has always proved worth consulting, and is the only MS. Which gives l. 116 of Pass. xviii., thus completing the otherwise imperfect sentence. In the course of my work, I discovered a fact which no one seems to have suspected, viz. that one leaf is missing, which ought to contain the passage C.xix. 245—xx.30; and in another place, the subject-matter has been misplaced in a very puzzling manner: so that, on these accounts also, it is very fortunate that it was not taken as the basis of the text. After C.xviii.186, M inserts xviii.288; then comes xviii.187; then xviii.259-287; then xviii.188-258; after which comes xviii.289, and all the rest of the Passus. Nothing is lost by this arrangement, but it is not easy to follow or to explain, and it considerably injures the sense. The completeness of the collation with M renders it hardly necessary to say more; but it may be remarked that this MS. Should not be put in the same sub-class with P, E, and Z, nor with I, T, and B but in a third class, along with F and S. An account of the sub-classes will be found below, in sect. 6. ",
+"KaneDesc":"S.xiv/xv. 95 vellum leaves containing: 1. Fol. 1a, a fragment of the South English Legendary; 2. Fols. 1b-2a, a poem on the death of the Duke of Suffolk; 3. Fols 2b-3b, a poem against the Lollards; 4. Fol. 3b, Latin prose incip. ‘Factum est in Vigilia matutina’; 5. Fols 4a-b, a poem on the visit to St Paul’s by King Henry VI and his Queen; 6. Fol. 5a, a proclamation dated 1416, incip. ‘Kyng of all kynges Lord of all Lordes Souden of all Surry’; 7. Fol. 5b, notes on mensuration; 8. Fols 6a-95a, Piers Plowman C version Prologue 1-XVI 3, XVI 160-XVIII 242, XIX 33, XXII 386; 9. Fol. 95b, a Latin account of the Holy Blood of Hailes and the indulgences associated with it.  Collation: ii + 16 (lacks 4) 2-8898 (lacks 4,5) 108 (lacks 8) 11-128138 (lacks 6,7,8) + ii.  Foliation ink, supplied after the loss of material shown in the collation.  Size of leaf 265 x 180mm, of frame 230 x 135 mm; usually 41 lines per side.  Cropped, but without loss of text; Piers Plowman in one bastard anglicana hand throughout; items 1-7 and item 9 in several later hands.  Opening capital of Piers Plowman large, red and blue with extensive marginal ornament; other passus initials in blue and red.  No running titles; parasigns alternately red and blue.  Latin and French and rubrics red, in a more formal and spacious script.  Signatures on many later leaves; catchwords on all but one quire.  Occasional marginalia by the main scribe; many more in at least three sixteenth-century hands to fol. 38, thereafter only occasional. Some ‘correction’ by erasure. On fol. 70a lines have been heavily cancelled.  Binding nineteenth-century brown leather, with the Cotton device in gold.  This binding is a repair.  On fol. 2a ‘Robert’. No indication of early ownership. ",
+"SchmidtDesc":"Vellum; bastard anglicana, of c. 1400; some correction by erasure. About 31 ll per p. Dialect W Warws. PP text preceded by four short pieces, including on ff. 2v-3v a poem against the Lollards [Robins 1959: 187], and followed by a Latin account of the Holy Blood of Hailes.",
+"EditorDesc":"Cotton Catalogue: Vespasianus B.XVI.
+Codex membran. in folio majori, constans foliis 95.
+1. A fragment, in verse, upon the fall:
+2. A ballad, on the death of Wm. De la Pole D. Of Suffolk.
+	Begin. “In the moneth of May when graffe groweds grene,
+		Flagraunt in her flowres with swete fauvour
+		Jac Napes wold over the see a mariner to ben,
+		With his elogi & his choyn to feke more tresour.” 1b
+3. A poem against the Lollards
+	Begin. “To he that can be Cristes clerk, and know the knottes of his cred,
+		Now may se a wonder worke, of hard happes to take good heede.” 2b
+4. A ballad, upon the vifit made by the K. And Q. To St. Paul’s, A 1458
+	Begins “Whan charité is chosen with states to stonde 
+		Stedfad and skill without distaunce,
+		Than wrathe may be exiled out of this londe
+		And God oure gide to have the gouvernaunce. 4.
+5. A whimsical proclamation of one who calls himself “King of all kings, Lord of all lords, cosyn to your Crist,” dated 1416   5
+6. The bredth and length of an acre of land. 5b
+7. The poem of Pierce Plowman, with the visions of Do Well, Do Better, and Do Best; differing much from the printed copies, but not so much from Caligula A.XI Bibl. Reg. 18 B.17 and Bibl. Harl. 2376.  6",
 "Ker":"long string",
-"DigFacs": "web link"
+"DigFacs": null
 }
