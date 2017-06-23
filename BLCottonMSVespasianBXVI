@@ -13,11 +13,13 @@
 "Support":"parchment",
 "SupportQuality": null,                         <-----
 "NoFolios":95,
-"FolHeight": 280,                               <----- check; discrepancy LMEScribes
-"FolWidth": 195,
+"FolHeight": 260,                               <----- check; discrepancy LMEScribes
+"FolWidth": 185,
 "Frame": "2 x vertical, 3 x horizontal enclosing top line but only under bottom line, ruled within, pricking survives on outer edge of only a few leaves, eg f69; flyleaves ruled differently and f1r alone ruled for double columns",
 "FrameHeight": 225,
 "FrameWidth": 140,
+"LineHeight": 8,
+"LinePP": 41,
 "Script":"typeofscript",
 "ScriptQuality":"1-10",
 "Scribe": "info",
