@@ -23,6 +23,7 @@
 "LinesPerCol": ,
 "Script":"typeofscript",
 "ScriptQuality": 1-10,
+"ScriptIndex": 1-100,
 "Scribe": "info",
 "LMEScribes": "url",
 "msContents": ["list","of","texts"],
