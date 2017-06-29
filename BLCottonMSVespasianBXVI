@@ -11,9 +11,9 @@
 "AquisitionDate":1735,
 "Binding": "British Museum 1865",
 "Support":"parchment",
-"SupportQuality": null,                         <-----
+"SupportQuality": 3,                         
 "NoFolios":95,
-"FolHeight": 260,                               <----- check; discrepancy LMEScribes
+"FolHeight": 260,    
 "FolWidth": 185,
 "Frame": "2 x vertical, 3 x horizontal enclosing top line but only under bottom line, ruled within, pricking survives on outer edge of only a few leaves, eg f69; flyleaves ruled differently and f1r alone ruled for double columns",
 "FrameHeight": 225,
